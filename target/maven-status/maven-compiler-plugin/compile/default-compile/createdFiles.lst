@@ -1,0 +1,16 @@
+org\tempuri\MultiplyResponse.class
+org\tempuri\package-info.class
+org\tempuri\ObjectFactory.class
+org\tempuri\SubtractResponse.class
+com\example\calculator\config\WsConfig.class
+com\example\calculator\config\SpringfoxConfig.class
+org\tempuri\DivideResponse.class
+org\tempuri\Multiply.class
+com\example\calculator\ws\CalculatorWsClient.class
+com\example\calculator\service\CalculatorWsService.class
+org\tempuri\AddResponse.class
+org\tempuri\Divide.class
+org\tempuri\Subtract.class
+com\example\calculator\CalculatorApplication.class
+com\example\calculator\controller\CalculatorController.class
+org\tempuri\Add.class
